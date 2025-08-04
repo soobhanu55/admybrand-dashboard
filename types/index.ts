@@ -1,0 +1,1 @@
+// types/index.ts - placeholder content for index.ts

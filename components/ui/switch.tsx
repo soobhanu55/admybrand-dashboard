@@ -1,0 +1,1 @@
+// components/ui/switch.tsx - placeholder content for switch.tsx

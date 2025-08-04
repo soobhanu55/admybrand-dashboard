@@ -1,0 +1,1 @@
+// components/ui/skeleton.tsx - placeholder content for skeleton.tsx

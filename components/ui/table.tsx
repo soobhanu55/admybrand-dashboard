@@ -1,0 +1,1 @@
+// components/ui/table.tsx - placeholder content for table.tsx
