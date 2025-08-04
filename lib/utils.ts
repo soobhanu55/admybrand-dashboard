@@ -1,1 +1,3 @@
-// lib/utils.ts - placeholder content for utils.ts
+export const formatNumber = (num: number): string => {
+  return num.toLocaleString('en-US');
+};
